@@ -1,0 +1,11 @@
+table{
+    border: 2px black solid ;
+    width: 70%;
+}
+.cabecera{
+    display: flex;
+
+}
+img{
+    width:30%;
+}
